@@ -3,7 +3,7 @@ const dice1 = document.getElementById("dice1");
 const dice2 = document.getElementById("dice2");
 const btn = document.querySelector(".btn");
 
-const images = ["./assets/dadu1.png", "./assets/dadu2.png", "./assets/dadu3.png", "./assets/dadu4.png", "./assets/dadu5.png", "./assets/dadu6.png"];
+const images = ["./assets/daduu1.png", "./assets/daduu2.png", "./assets/daduu3.png", "./assets/daduu4.png", "./assets/daduu5.png", "./assets/daduu6.png"];
 
 let randomRoll = () => {
   let diceOneValue = Math.floor(Math.random() * 6);
